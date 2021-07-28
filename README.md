@@ -1,7 +1,6 @@
 # USER REGISTRATION API SAMPLE
 
-## Step to run this sample
-- `git clone https://github.com/hieudang59/user-registration-api.git`
+## How to run
 - `cd user-registration-api`
 - `yarn install`
 - Connect a cluster in [Atlas cloud](https://www.mongodb.com/cloud/atlas):
