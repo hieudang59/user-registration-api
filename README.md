@@ -1,4 +1,4 @@
-# USER REGISTRATION API SAMPLE
+# User Registration API Sample
 
 ## How to run
 - `cd user-registration-api`
